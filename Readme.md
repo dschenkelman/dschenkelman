@@ -1,22 +1,19 @@
 
-# rauchg
+# dschenkelman
 
-![](https://cldup.com/tBDGZcr8jt.gif)
+![](https://cldup.com/-R5w8cavKG.gif)
 
 ```bash
-$ npm install rauchg
+$ npm install dschenkelman
 ```
 
 and
 
 ```js
-console.log(require('rauchg'));
+console.log(require('dschenkelman'));
 ```
 
 To get my contact information.
 
 ## Credits
-
-Thanks to John K Paul for the idea, and this
-[tweet](https://twitter.com/RedWolves/status/667848798484324352) for 
-pointing it out!
+Got the idea from a [@rauchg](https://github.com/rauchg/rauchg) tweet, original [@johnkpaul](https://github.com/johnkpaul/johnkpaul).

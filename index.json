@@ -1,8 +1,8 @@
 {
-  "name": "Guillermo Rauch",
-  "website": "rauchg.com",
-  "email": "rauchg@gmail.com",
-  "twitter": "rauchg",
-  "github": "rauchg",
-  "linkedin": false
+  "name": "Damian Schenkelman",
+  "website": "dschenkelman.github.io",
+  "email": "damian.schenkelman@gmail.com",
+  "twitter": "dschenkelman",
+  "github": "dschenkelman",
+  "hobbies": [ "asado", "basketball", "coding" ]
 }

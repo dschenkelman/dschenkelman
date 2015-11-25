@@ -1,16 +1,20 @@
 {
-  "name": "rauchg",
-  "version": "3.0.0",
-  "description": "Guillermo Rauch",
+  "name": "dschenkelman",
+  "version": "1.0.0",
+  "description": "Damian Schenkelman",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat index.json"
+    "postinstall": "node -e \"console.log(require('dschenkelman'))\""
   },
   "keywords": [
     "person",
     "contact"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/dschenkelman/dschenkelman.git"
+  },
   "main": "./index.json",
-  "author": "Guillermo Rauch",
+  "author": "Damian Schenkelman",
   "license": "ISC"
 }
